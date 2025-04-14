@@ -29,7 +29,7 @@ $grey--ligth:#f8f6f6;
 $grey--medium: #e5e0de;
 
 
-
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Outfit:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Montserrat&display=swap');
 
 @import '../libs/bulma/bulma.sass';
@@ -393,11 +393,9 @@ div.column.is-8:first-child {
   background-color: $pycon-grey;
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
-  padding-top: 28px;
-  padding-bottom: 28px;
   margin-bottom: 11px;
   padding: 50px;
-  padding-top: 73px;
+  padding-top: 72px;
   padding-bottom: 71px;
 }
 
