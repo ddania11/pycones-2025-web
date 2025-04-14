@@ -1,4 +1,4 @@
-Title: Sevilla, ciudad del congreso 🏢
+Title: Sevilla, el marco 🏢
 Slug: sevilla
 Date: 2022-01-13 18:20
 Authors: Python España

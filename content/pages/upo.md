@@ -1,4 +1,4 @@
-Title: Universidad Pablo de Olavide 🏢
+Title: Universidad Pablo de Olavide, la sede 🏢
 Slug: upo
 Date: 2022-01-13 18:20
 Authors: Pythones Organization
