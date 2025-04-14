@@ -35,10 +35,10 @@ DIRECT_TEMPLATES = [
 ]
 
 MENUITEMS_NAVBAR = {
-    "La ciudad": {
-        "Sevilla": "/pages/sevilla.html",
-        "Cómo llegar": "/pages/how-to-arrive.html",
-        "UPO": "/pages/upo.html"
+    "Dónde": {
+        "Sevilla, el marco": "/pages/sevilla.html",
+        "Universidad Pablo de Olavide, la sede": "/pages/upo.html",
+        "Cómo llegar": "/pages/how-to-arrive.html"
     },
     "Organización": {"Equipo": "/organizers.html"},
     "Código de Conducta": "/pages/code-of-conduct.html"

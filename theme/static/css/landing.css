@@ -21,9 +21,8 @@ li {
 li span {
     display: block;
     font-size: 2rem;
-    font-family:  'Arvo', serif;
+    font-family:  'Outfit', sans-serif;
 }
-
 
 @media all and (max-width: 768px) {
     h1 {
