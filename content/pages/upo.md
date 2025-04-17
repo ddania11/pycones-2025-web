@@ -2,7 +2,7 @@ Title: Universidad Pablo de Olavide, la sede 🏢
 Slug: upo
 Date: 2022-01-13 18:20
 Authors: Pythones Organization
-Summary: Descripción del empazamiento del evento, Universidad Pablo Olavide
+Summary: Descripción del emplazamiento del evento, Universidad Pablo Olavide
 
 Construida sobre la antigua **Universidad Laboral**, el campus de la **Universidad Pablo de Olavide (UPO)** destaca tanto por sus **instalaciones** como por su **historia**. Desde **2008**, está reconocido como **Bien de Interés Cultural** en el *Catálogo General del Patrimonio Histórico Andaluz*.
 
