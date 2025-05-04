@@ -37,6 +37,10 @@
 		<section class="section">
 			<div class="container">
 
+				{% if ENABLED_TICKETS %}
+					{% include "_includes/index/buy_your_tickets.html" %}
+				{% endif %}
+
 				{% include "_includes/index/statistics.html" %}
 
 				{% if ENABLED_KEYNOTERS %}
@@ -53,10 +57,6 @@
 
 				{% if ENABLED_SCHEDULE_INFO %}
 					{% include "_includes/index/schedule.html" %}
-				{% endif %}
-
-				{% if ENABLED_TICKETS %}
-					{% include "_includes/index/buy_your_tickets.html" %}
 				{% endif %}
 
 				{% if ENABLED_BLOG %}
@@ -76,7 +76,7 @@
 				{% endif %}
 
 
-<!-- 
+<!--
 				{% if ENABLED_SPONSORSHIPS %}
 					{% include "_includes/index/sponsorship.html" %}
 				{% endif %} -->

@@ -35,7 +35,9 @@ Forma parte de la mayor conferencia nacional de Python, donde cientos de entusia
 YOUTUBE_LINK = "https://www.youtube.com/PythonEspa%C3%B1aOficial"
 GITHUB_LINK = "https://github.com/python-spain"
 EMAIL_LINK = "mailto:contacto@2025.es.pycon.org"
-LINKEND_LINK = "https://es.linkedin.com/company/python-espa%C3%B1a?trk=public_post_feed-actor-name"
+LINKEND_LINK = (
+    "https://es.linkedin.com/company/python-espa%C3%B1a?trk=public_post_feed-actor-name"
+)
 
 INSTAGRAM_LINK = "https://www.instagram.com/pycon_es/"
 BLUESKY_LINK = "https://web-cdn.bsky.app/profile/did:plc:irbbd7hhbmqhoklzmlfx2sju"
@@ -43,15 +45,13 @@ MASTODON_LINK = None
 TELEGRAM_LINK = None
 TWITTER_LINK = None
 
-TICKETS_LINK = "https://pycones2025.eventbrite.es"
+TICKETS_LINK = "https://pretix.eu/python-spain/pycones-2025/"
 CALL_FOR_PAPERS_LINK = "https://charlas.2025.es.pycon.org/pycones2022/cfp"
 SPONSORS_DOSSIER_ES = "/theme/files/[ES]PyConES25.pdf"
 SPONSORS_DOSSIER_EN = "/theme/files/[EN]PyConES25.pdf"
 
 # https://google-map-generator.com/
-MAP_IFRAME_LINK = (
-    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.750650979095!2d-5.939984388292738!3d37.35524047197774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126fada8bb9993%3A0xf1425beda6074232!2sUniversidad%20Pablo%20de%20Olavide%20Sevilla!5e0!3m2!1ses!2ses!4v1743432763703!5m2!1ses!2ses"
-)
+MAP_IFRAME_LINK = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.750650979095!2d-5.939984388292738!3d37.35524047197774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126fada8bb9993%3A0xf1425beda6074232!2sUniversidad%20Pablo%20de%20Olavide%20Sevilla!5e0!3m2!1ses!2ses!4v1743432763703!5m2!1ses!2ses"
 
 # https://cookie-bar.eu/
 COOKIES_SCRIPT = None
