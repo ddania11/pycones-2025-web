@@ -45,7 +45,11 @@ MASTODON_LINK = None
 TELEGRAM_LINK = None
 TWITTER_LINK = None
 
-TICKETS_LINK = "https://pretix.eu/python-spain/pycones-2025/"
+
+TICKETS_LINK = "/tickets.html"
+PRETIX_TICKETS_LINK = "https://pretix.eu/python-spain/pycones-2025/"
+
+
 CALL_FOR_PAPERS_LINK = "https://charlas.2025.es.pycon.org/pycones2022/cfp"
 SPONSORS_DOSSIER_ES = "/theme/files/[ES]PyConES25.pdf"
 SPONSORS_DOSSIER_EN = "/theme/files/[EN]PyConES25.pdf"

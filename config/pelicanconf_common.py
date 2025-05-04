@@ -31,19 +31,23 @@ DIRECT_TEMPLATES = [
     "gallery",
     "past_editions",
     "organizers",
+    "tickets",
     "jobs",
 ]
 
 MENUITEMS_NAVBAR = {
+    "Tickets": "/tickets.html",
     "Dónde": {
         "Sevilla, el marco": "/pages/sevilla.html",
         "Universidad Pablo de Olavide, la sede": "/pages/upo.html",
-        "Cómo llegar": "/pages/how-to-arrive.html"
+        "Cómo llegar": "/pages/how-to-arrive.html",
     },
     "Organización": {"Equipo": "/organizers.html"},
-    "Código de Conducta": "/pages/code-of-conduct.html"
+    "Código de Conducta": "/pages/code-of-conduct.html",
 }
 
+if ENABLED_TICKETS:
+    MENUITEMS_NAVBAR["Ponentes"] = "/tickets.html"
 
 if ENABLED_SPEAKERS:
     MENUITEMS_NAVBAR["Ponentes"] = "/keynoters.html"
