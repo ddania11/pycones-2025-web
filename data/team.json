@@ -1,15 +1,18 @@
 [
 
     {
-        "name": "Javier Alonso Silva",
-        "avatar": "/theme/images/organizers/javi.jpeg",
+        "name": "Javier Alonso",
+        "avatar": "/theme/images/organizers/javi.png",
         "tags": [
-            {"name": "PyLadies", "color": "is-danger"},
-            {"name": "support squad", "color": "is-info"}
+            {"name": "Python Spain", "color": "is-danger"},
+            {"name": "Core Organizer", "color": "is-info"},
+            {"name": "sponsors squad", "color": "is-info"},
+            {"name": "tickets squad", "color": "is-info"},
+            {"name": "talks squad", "color": "is-info"}
         ],
-        "position": "Ingeniero I+D en Teldat",
+        "position": "Team Lead @ GEOTAB | Python Spain President",
         "github": "https://github.com/Javinator9889",
-        "twitter": "https://twitter.com/javinator9889",
+        "twitter": "https://bsky.app/profile/javinator9889.com",
         "linkedin": "https://linkedin.com/in/javinator9889"
     },
     {
