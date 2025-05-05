@@ -372,7 +372,7 @@ div.column.is-8:first-child {
 .statistic-days {
   background-color: $pycon-green;
   border-top-left-radius: 30px;
-  border-top-right-radius: 30px;  
+  border-top-right-radius: 30px;
   padding: 30px;
 }
 
@@ -441,4 +441,18 @@ div.column.is-8:first-child {
 
 .font-semibold {
   font-weight: 600;
+}
+
+.pretix-widget button{
+  background-color: $pycon-red !important;
+  color: white !important;
+}
+
+.pretix-widget button:hover{
+  background-color: $pycon-red-hover !important;
+  color: white !important;
+}
+
+.pretix-widget .pretix-widget-item-count-group {
+  color: white !important;
 }
