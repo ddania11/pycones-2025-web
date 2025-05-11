@@ -18,7 +18,7 @@ $pycon-yellow-hover: #B89E45;
 $primary: $pycon-yellow;
 $primary-hover: $pycon-yellow-hover;
 
-$info: $pycon-yellow;
+$info: $pycon-dark-blue;
 $link: $pycon-red;
 $success:  $pycon-green;
 $warning: $pycon-yellow;
@@ -455,4 +455,12 @@ div.column.is-8:first-child {
 
 .pretix-widget .pretix-widget-item-count-group {
   color: white !important;
+}
+
+.c4p-button {
+  color: $pycon-dark-blue;
+}
+
+.c4p-button:hover {
+  color: $pycon-dark-blue-hover;
 }
