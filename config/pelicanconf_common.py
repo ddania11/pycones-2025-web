@@ -5,6 +5,7 @@ import pytz
 
 
 from pelicanconf_flags import *
+from pelicanconf_event import CALL_FOR_PAPERS_LINK
 
 AUTHOR = "Python España Org"
 SITENAME = "PyConES 2025 Sevilla"
@@ -50,6 +51,15 @@ MENUITEMS_NAVBAR = OrderedDict(
         "Código de Conducta": "/pages/code-of-conduct.html",
     }
 )
+
+if CALL_FOR_PAPERS_LINK:
+    MENUITEMS_NAVBAR["Llamada a ponentes"] = OrderedDict(
+        {
+            "url": CALL_FOR_PAPERS_LINK,
+            "target": "_blank",
+            "external": True,
+        }
+    )
 
 if ENABLED_TICKETS:
     MENUITEMS_NAVBAR["Tickets"] = "/tickets.html"
