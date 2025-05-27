@@ -11,4 +11,8 @@ from config.pelicanconf_event import *
 from config.pelicanconf_flags import *
 
 SITEURL = os.getenv("SITEURL")
+
+if not SITEURL:
+    raise ValueError("SITEURL environment variable is not set")
+
 GOOGLE_ANALYTICS_CODE = os.getenv("GOOGLE_ANALYTICS_CODE", "0000")

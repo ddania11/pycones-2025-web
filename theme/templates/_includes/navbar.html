@@ -20,6 +20,10 @@
                         <a class="navbar-item" href="{{ SITEURL }}{{ link }}">
                             {{ item }}
                         </a>
+                            {% elif link is mapping and 'url' in link and 'external' in link and link.external %}
+                        <a class="navbar-item" href="{{ link.url }}" target="{{ link.target }}" rel="noopener noreferrer">
+                            {{ item }}
+                        </a>
                             {% elif link is mapping %}
                         <div class="navbar-item has-dropdown is-hoverable">
                             <a class="navbar-link">
