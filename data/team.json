@@ -114,5 +114,15 @@
             {"name": "Asociación ESOLIUPO", "color": "is-danger"},
             {"name": "infraestructure", "color": "is-info"}
         ]
+    },
+    {
+        "name": "Verónica Moise",
+        "position": "Senior Data Scientist",
+        "avatar": "/theme/images/organizers/vero.jpeg",
+        "linkedin": "https://www.linkedin.com/in/veronica-moise-a38433145/",
+        "tags": [
+            {"name": "Python Sevilla", "color": "is-danger"},
+            {"name": "sponsors squad", "color": "is-info"}
+        ]
     }
 ]
