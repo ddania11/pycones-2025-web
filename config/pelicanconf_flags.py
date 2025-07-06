@@ -32,7 +32,7 @@ ENABLED_CALL_FOR_SPONSORS = True
 ENABLED_TIMETABLE = False
 
 # Habilita la funcionalidad de blog de contenidos de la web.
-ENABLED_BLOG = False
+ENABLED_BLOG = True
 
 # Habilita galería de imágenes en Google Photos
 ENABLED_GALLERY = False
