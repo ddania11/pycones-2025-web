@@ -1,25 +1,35 @@
 [
     {
-        "level_name": "keystone",
-        "title": "Keystone 🏆",
+        "level_name": "pan_de_oro",
+        "title": "Pan de Oro",
         "size": "270px",
         "size_schedule": "500px",
         "order": 1,
         "members": [
+            {
+                "name": "Kiwi",
+                "photo": "/theme/images/sponsors/pan_de_oro/logo_kiwi.svg",
+                "url": "https://www.kiwi.com/"
+            }
         ]
     },
     {
-        "level_name": "diamond",
-        "title": "Diamante 💎",
+        "level_name": "plata_fina",
+        "title": "Plata Fina",
         "size": "250px",
         "size_schedule": "400px",
         "order": 2,
         "members": [
+            {
+                "name": "Fever",
+                "photo": "#TODO",
+                "url": "https://feverup.com/"
+            }
         ]
     },
     {
-        "level_name": "platinum",
-        "title": "Platino 💽",
+        "level_name": "cielo_de_farolillos",
+        "title": "Cielo de Farolillos",
         "size": "210px",
         "size_schedule": "200px",
         "order": 3,
@@ -27,28 +37,32 @@
         ]
     },
     {
-        "level_name": "gold",
-        "title": "Oro 📀",
+        "level_name": "incienso",
+        "title": "Incienso",
         "size": "180px",
         "size_schedule": "200px",
         "order": 4,
         "members": [
-        ]
-    },
-    {
-        "level_name": "silver",
-        "title": "Plata 💿",
-        "size": "150px",
-        "order": 5,
-        "members": [
-        ]
-    },
-    {
-        "level_name": "friend",
-        "title": "Colaboran 💡",
-        "size": "150px",
-        "order": 6,
-        "members": [
+            {
+                "name": "JoinUp",
+                "photo": "/theme/images/sponsors/incienso/joinup_brand_2a_sinfondo.png",
+                "url": "https://www.joinup.es/"
+            },
+            {
+                "name": "Gisce",
+                "photo": "/theme/images/sponsors/incienso/logo_gisce.svg",
+                "url": "https://gisce.net/es/"
+            },
+            {
+                "name": "Bloomberg",
+                "photo": "/theme/images/sponsors/incienso/logoBBGblck.png",
+                "url": "https://www.bloomberg.com/"
+            },
+            {
+                "name": "NIQ",
+                "photo": "/theme/images/sponsors/incienso/NIQ-logo-bright-blue.svg",
+                "url": "https://nielseniq.com/"
+            }
         ]
     }
 ]
