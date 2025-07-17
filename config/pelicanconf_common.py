@@ -48,11 +48,12 @@ MENUITEMS_NAVBAR = OrderedDict(
             }
         ),
         "Organización": OrderedDict({"Equipo": "/organizers.html"}),
-        "Diversidad": OrderedDict({
-            "Código de Conducta": "/pages/code-of-conduct.html",
-            "Becas": "/pages/becas.html",
+        "Diversidad": OrderedDict(
+            {
+                "Código de Conducta": "/pages/code-of-conduct.html",
+                "Becas": "/becas.html",
             }
-        )
+        ),
     }
 )
 
