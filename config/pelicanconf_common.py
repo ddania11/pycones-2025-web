@@ -48,7 +48,11 @@ MENUITEMS_NAVBAR = OrderedDict(
             }
         ),
         "Organización": OrderedDict({"Equipo": "/organizers.html"}),
-        "Código de Conducta": "/pages/code-of-conduct.html",
+        "Diversidad": OrderedDict({
+            "Código de Conducta": "/pages/code-of-conduct.html",
+            "Becas": "/pages/becas.html",
+            }
+        )
     }
 )
 
@@ -69,9 +73,6 @@ if ENABLED_SPEAKERS:
 
 if ENABLED_SPONSORSHIPS:
     MENUITEMS_NAVBAR["Patrocinios"] = "/sponsorship.html"
-
-if ENABLED_FINANCIAL_AID:
-    MENUITEMS_NAVBAR["Becas"] = "/becas.html"
 
 if ENABLED_TIMETABLE:
     MENUITEMS_NAVBAR["Horario"] = "/schedule.html"
