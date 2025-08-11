@@ -9,14 +9,9 @@ Construida sobre la antigua **Universidad Laboral**, el campus de la **Universid
 ![portada](https://www.upo.es/upo_opencms/export/sites/upo/Galerias/Imagenes/cabecera-la-upo.jpg?style=centerme)
 
 ### 🏛️ Una Universidad Joven con Prestigio
-Fundada en **1997**, la UPO es una de las universidades más jóvenes de España. A pesar de su corta historia, ha ganado **prestigio** gracias a:
-- Su enfoque **interdisciplinario**.
-- Su apuesta por la **innovación en la educación superior**.
-- Una amplia oferta académica de:
-  - **Grados** y **dobles grados**.
-  - **Másteres oficiales**.
-  - **Títulos propios**.
-- Sus **seis facultades** y la **Escuela Politécnica Superior**.
+
+Universidad Pablo de Olavide: de carácter más joven pero igualmente relevante, la Universidad Pablo de Olavide (UPO) es conocida por su enfoque en la interdisciplinariedad y la innovación. Con más de 14.000 estudiantes, la UPO se ha convertido en un referente en estudios relacionados con las ciencias sociales, el medio ambiente y las STEM, donde destaca su grado ingeniería informática, haciendo énfasis en la promoción del emprendimiento y la sostenibilidad. Además, su campus único facilita una experiencia universitaria cohesiva y moderna, donde todas las instalaciones académicas , de investigación (como el Centro Andaluz de Biología del Desarrollo entre otros) y de ocio están integradas.
+
 
 ### 🏢 Un Campus Único y Compacto
 El campus de la UPO es un espacio **integrado**, con más de **treinta edificios** donde se concentran:
