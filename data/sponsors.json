@@ -10,7 +10,23 @@
                 "name": "Kiwi",
                 "photo": "/theme/images/sponsors/pan_de_oro/logo_kiwi.svg",
                 "url": "https://www.kiwi.com/"
+            },
+            {
+                "name": "Raiola Network",
+                "photo": "/theme/images/sponsors/pan_de_oro/raiola_network_positivo.svg",
+                "url": "https://raiolanetworks.com/"
+            },
+            {
+                "name": "Nagarro",
+                "photo": "/theme/images/sponsors/pan_de_oro/nagarro-vertical-light.svg",
+                "url": "https://www.nagarro.com/es/"
+            },
+            {
+                "name": "Freepik",
+                "photo": "#TODO",
+                "url": ""
             }
+
         ]
     },
     {
@@ -24,6 +40,11 @@
                 "name": "Fever",
                 "photo": "#TODO",
                 "url": "https://feverup.com/"
+            },
+            {
+                "name": "Kraken Technologies",
+                "photo": "/theme/images/sponsors/plata_fina/kraken_digital_only.png",
+                "url": "https://kraken.tech/"
             }
         ]
     },
@@ -34,6 +55,11 @@
         "size_schedule": "200px",
         "order": 3,
         "members": [
+            {
+                "name": "eFontiers",
+                "photo": "/theme/images/sponsors/farolillos/eFrontiers_Tag_POS.png",
+                "url": "https://e-frontiers.ie/"
+            }
         ]
     },
     {
@@ -47,6 +73,11 @@
                 "name": "JoinUp",
                 "photo": "/theme/images/sponsors/incienso/joinup_brand_2a_sinfondo.png",
                 "url": "https://www.joinup.es/"
+            },
+            {
+                "name": "Codurance",
+                "photo": "#TODO",
+                "url": "https://www.codurance.com/es/"
             },
             {
                 "name": "Gisce",
@@ -63,6 +94,21 @@
                 "photo": "/theme/images/sponsors/incienso/NIQ-logo-bright-blue.svg",
                 "url": "https://nielseniq.com/"
             }
+        ]
+    },
+    {
+        "level_name": "Colaborador",
+        "title": "Colaborador",
+        "size": "180px",
+        "size_schedule": "200px",
+        "order": 4,
+        "members": [
+            {
+                "name": "Monster Energy",
+                "photo": "#TODO",
+                "url": "https://www.monsterenergy.com/es-es/"
+            }
+
         ]
     }
 ]
