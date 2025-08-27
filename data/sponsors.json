@@ -1,54 +1,114 @@
 [
     {
-        "level_name": "keystone",
-        "title": "Keystone 🏆",
+        "level_name": "pan_de_oro",
+        "title": "Pan de Oro",
         "size": "270px",
         "size_schedule": "500px",
         "order": 1,
         "members": [
+            {
+                "name": "Kiwi",
+                "photo": "/theme/images/sponsors/pan_de_oro/kiwi.png",
+                "url": "https://www.kiwi.com/"
+            },
+            {
+                "name": "Raiola Network",
+                "photo": "/theme/images/sponsors/pan_de_oro/raiola.png",
+                "url": "https://raiolanetworks.com/"
+            },
+            {
+                "name": "Nagarro",
+                "photo": "/theme/images/sponsors/pan_de_oro/nagarro.png",
+                "url": "https://www.nagarro.com/es/"
+            },
+            {
+                "name": "Freepik",
+                "photo": "/theme/images/sponsors/pan_de_oro/freepik.png",
+                "url": "https://www.freepik.es/"
+            }
+
         ]
     },
     {
-        "level_name": "diamond",
-        "title": "Diamante 💎",
+        "level_name": "plata_fina",
+        "title": "Plata Fina",
         "size": "250px",
         "size_schedule": "400px",
         "order": 2,
         "members": [
+            {
+                "name": "Fever",
+                "photo": "/theme/images/sponsors/plata_fina/fever.png",
+                "url": "https://feverup.com/"
+            },
+            {
+                "name": "Kraken Technologies",
+                "photo": "/theme/images/sponsors/plata_fina/kraken.png",
+                "url": "https://kraken.tech/"
+            }
         ]
     },
     {
-        "level_name": "platinum",
-        "title": "Platino 💽",
+        "level_name": "cielo_de_farolillos",
+        "title": "Cielo de Farolillos",
         "size": "210px",
         "size_schedule": "200px",
         "order": 3,
         "members": [
+            {
+                "name": "eFontiers",
+                "photo": "/theme/images/sponsors/farolillos/efrontiers.png",
+                "url": "https://e-frontiers.ie/"
+            }
         ]
     },
     {
-        "level_name": "gold",
-        "title": "Oro 📀",
+        "level_name": "incienso",
+        "title": "Incienso",
         "size": "180px",
         "size_schedule": "200px",
         "order": 4,
         "members": [
+            {
+                "name": "JoinUp",
+                "photo": "/theme/images/sponsors/incienso/joinup.png",
+                "url": "https://www.joinup.es/"
+            },
+            {
+                "name": "Codurance",
+                "photo": "/theme/images/sponsors/incienso/codurance.png",
+                "url": "https://www.codurance.com/es/"
+            },
+            {
+                "name": "Gisce",
+                "photo": "/theme/images/sponsors/incienso/gisce.png",
+                "url": "https://gisce.net/es/"
+            },
+            {
+                "name": "Bloomberg",
+                "photo": "/theme/images/sponsors/incienso/bloomberg.png",
+                "url": "https://www.bloomberg.com/"
+            },
+            {
+                "name": "NIQ",
+                "photo": "/theme/images/sponsors/incienso/NIQ.png",
+                "url": "https://nielseniq.com/"
+            }
         ]
     },
     {
-        "level_name": "silver",
-        "title": "Plata 💿",
-        "size": "150px",
-        "order": 5,
+        "level_name": "Colaborador",
+        "title": "Colaborador",
+        "size": "180px",
+        "size_schedule": "200px",
+        "order": 4,
         "members": [
-        ]
-    },
-    {
-        "level_name": "friend",
-        "title": "Colaboran 💡",
-        "size": "150px",
-        "order": 6,
-        "members": [
+            {
+                "name": "Monster Energy",
+                "photo": "/theme/images/sponsors/colaborador/monster.png",
+                "url": "https://www.monsterenergy.com/es-es/"
+            }
+
         ]
     }
 ]
