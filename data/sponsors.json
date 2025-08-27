@@ -8,23 +8,23 @@
         "members": [
             {
                 "name": "Kiwi",
-                "photo": "/theme/images/sponsors/pan_de_oro/logo_kiwi.svg",
+                "photo": "/theme/images/sponsors/pan_de_oro/kiwi.png",
                 "url": "https://www.kiwi.com/"
             },
             {
                 "name": "Raiola Network",
-                "photo": "/theme/images/sponsors/pan_de_oro/raiola_network_positivo.svg",
+                "photo": "/theme/images/sponsors/pan_de_oro/raiola.png",
                 "url": "https://raiolanetworks.com/"
             },
             {
                 "name": "Nagarro",
-                "photo": "/theme/images/sponsors/pan_de_oro/nagarro-vertical-light.svg",
+                "photo": "/theme/images/sponsors/pan_de_oro/nagarro.png",
                 "url": "https://www.nagarro.com/es/"
             },
             {
                 "name": "Freepik",
-                "photo": "#TODO",
-                "url": ""
+                "photo": "/theme/images/sponsors/pan_de_oro/freepik.png",
+                "url": "https://www.freepik.es/"
             }
 
         ]
@@ -38,12 +38,12 @@
         "members": [
             {
                 "name": "Fever",
-                "photo": "#TODO",
+                "photo": "/theme/images/sponsors/plata_fina/fever.png",
                 "url": "https://feverup.com/"
             },
             {
                 "name": "Kraken Technologies",
-                "photo": "/theme/images/sponsors/plata_fina/kraken_digital_only.png",
+                "photo": "/theme/images/sponsors/plata_fina/kraken.png",
                 "url": "https://kraken.tech/"
             }
         ]
@@ -57,7 +57,7 @@
         "members": [
             {
                 "name": "eFontiers",
-                "photo": "/theme/images/sponsors/farolillos/eFrontiers_Tag_POS.png",
+                "photo": "/theme/images/sponsors/farolillos/efrontiers.png",
                 "url": "https://e-frontiers.ie/"
             }
         ]
@@ -71,27 +71,27 @@
         "members": [
             {
                 "name": "JoinUp",
-                "photo": "/theme/images/sponsors/incienso/joinup_brand_2a_sinfondo.png",
+                "photo": "/theme/images/sponsors/incienso/joinup.png",
                 "url": "https://www.joinup.es/"
             },
             {
                 "name": "Codurance",
-                "photo": "#TODO",
+                "photo": "/theme/images/sponsors/incienso/codurance.png",
                 "url": "https://www.codurance.com/es/"
             },
             {
                 "name": "Gisce",
-                "photo": "/theme/images/sponsors/incienso/logo_gisce.svg",
+                "photo": "/theme/images/sponsors/incienso/gisce.png",
                 "url": "https://gisce.net/es/"
             },
             {
                 "name": "Bloomberg",
-                "photo": "/theme/images/sponsors/incienso/logoBBGblck.png",
+                "photo": "/theme/images/sponsors/incienso/bloomberg.png",
                 "url": "https://www.bloomberg.com/"
             },
             {
                 "name": "NIQ",
-                "photo": "/theme/images/sponsors/incienso/NIQ-logo-bright-blue.svg",
+                "photo": "/theme/images/sponsors/incienso/NIQ.png",
                 "url": "https://nielseniq.com/"
             }
         ]
@@ -105,7 +105,7 @@
         "members": [
             {
                 "name": "Monster Energy",
-                "photo": "#TODO",
+                "photo": "/theme/images/sponsors/colaborador/monster.png",
                 "url": "https://www.monsterenergy.com/es-es/"
             }
 
