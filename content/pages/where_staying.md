@@ -8,29 +8,61 @@ Summary: Dónde alojarse en Sevilla
 
 # Recomendaciones para alojarse en Sevilla
 
+La forma más cómoda para llegar a la Universidad es en Metro, con la Linea 1 (sencillo, solo hay una linea).
+
+Teniendo en cuentra las zonas donde se suele salir por la noche y la linea de metro, los barrios más recomendables para alojarse son: entre zona de los Remedios, centro, San Bernardo, Nervión y Gran Plaza. Es decir, desde la parada Blas Infante hasta Gran Plaza.
+
+Zonas como Alameda, centro, Macarena son buenos sitios para alojarse dada su cercania a la zona centro, pero más alejada del metro.
+
+
+## Como llegar a la Universidad Pablo Olavides
+
+[Información útil](https://www.upo.es/estudiantes/en/why-study-at-upo/seville/Transporte-00001/) publicada en la web de la Universidad
+
+### Metro 🚇
+
+El [metro de Sevilla](https://www.metro-sevilla.es/) cuenta con una sola linea, la linea 1 que une los pueblos de Mairena del Aljarafe, San Juan de Aznalfarache, Dos Hermanas con Sevilla.
+Para llegar a la Universidad de la Olavides hay que bajarse en la parada "Pablo de Olavides"
+
+Aquí está el mapa con las paradas, los [horarios y precios](https://www.metro-sevilla.es/horarios-y-tarifas) y la consulta de los [próximos trenes](https://www.metro-sevilla.es/proximos)
+
+### Autobus 🚌
+
+La empresa de autobuses Tussam de Sevilla tiene disponibles la [línea 38 o la línea 38A](https://reddelineas.tussam.es/?linea=38&lang=es) de autobuses para llegar a la Universidad
+
+<!--
+### Taxi 🚕
+
 TODO
+### Coche 🚗
 
- Sevilla, la capital andaluza, ofrece diversas opciones de transporte para aquellos que deseen visitarla. Su infraestructura facilita el acceso tanto por carretera, con una red de autovías bien desarrollada para coches y autobuses, como por ferrocarril, gracias a los servicios de trenes de alta velocidad (AVE). Además, el aeropuerto de Sevilla proporciona conexiones aéreas con numerosas ciudades europeas, lo que la convierte en un destino accesible desde múltiples puntos de origen, por lo que según que parte de España te encuentres, estas son las mejores opciones:
+Si llegas a Sevilla en coche, puede ser una buena idea, aparcar en el parking de la Universidad Pablo Olavides y moverse en transporte público. Aparcar por el centro de Sevilla, e incluso por zonas no tan céntricas, puede no ser una buena idea.
+--->
 
-## **Si vienes del Norte**
-- ✈️ **Avión**: Ciudades como **Bilbao**, **Santander**, **Oviedo**, **A Coruña** y **Santiago de Compostela** ofrecen vuelos directos o con una escala al **Aeropuerto de Sevilla (SVQ)**. Compañías como **Vueling**, **Iberia** y **Ryanair** suelen operar estas rutas.
-- 🚆  **Tren**: Aunque no hay una conexión directa desde todas las ciudades del norte, puedes tomar un **Tren de alta velocidad (AVE)** desde ciudades importantes como **Bilbao**, **San Sebastián** o **Vitoria-Gasteiz** haciendo una conexión en **Madrid (Estación de Atocha)**. Desde Madrid, el AVE a Sevilla es directo y relativamente rápido, en un par de horas habrá terminado el trayecto.
-- 🚌 **Autobús**: Es la opción más económica, aunque la más larga. Compañías como **ALSA** y otras operan rutas desde diversas ciudades del norte hacia la **Estación de Autobuses Plaza de Armas** en Sevilla. El viaje puede ser considerablemente largo, dependiendo del punto de partida.
-- 🚗 **Coche**: Viajar en coche ofrece flexibilidad para explorar diferentes lugares en el camino. La ruta más común desde el norte implica tomar autopistas como la **AP-68**, **A-66** o similares, dependiendo del punto de origen, y luego conectar con la **A-4** hacia Sevilla. Es un viaje largo que requiere planificación de paradas.
+# Dónde alojarse
 
-## **Si vienes del Sur**
-- ✈️ **Avión**: **Málaga (AGP)**, **Gran Canaria (LPA)**, **Tenerife (TFN/TFS)** y otras islas Canarias tienen vuelos directos al Aeropuerto de Sevilla (SVQ).
-- 🚆  **Tren**: Existe la posibilidad de llegar a Sevilla usando **Trenes de Alta Velocidad (AVE)** desde ciudades como **Málaga**, **Cádiz** y **Huelva**, el AVE ofrece una conexión rápida y eficiente a la estación de Sevilla **Santa Justa**. También Existen **Trenes regionales y de cercanías** que conectan diversas poblaciones del sur con Sevilla, aunque suelen ser más lentos que el AVE.
-- 🚌 **Autobús**: Es una opción muy común y con buena frecuencia de servicio. Compañías como **ALSA** y otras conectan prácticamente todas las ciudades y pueblos del sur con Sevilla.
-- 🚗 **Coche**: Dada la proximidad, viajar en coche es muy habitual y cómodo. Las carreteras están bien mantenidas, y las distancias suelen ser cortas. Por ejemplo, desde Málaga se toma la **A-92**, y desde Cádiz la **AP-4**.
+## Hoteles 🏨
 
-## **Si vienes del Este**
-- ✈️ **Avión**: Los areropuertos de **Alicante**, **Barcelona**, **Palma de Mallorca** y **Valencia** tienen vuelos directos a Sevilla, aerolíneas como **Vueling**, **Ryanair** e **Iberia** operan en estos trayectos periódicamente.
-- 🚆  **Tren**: Ciudades importantes como Barcelona, Valencia, Alicante y Murcia tienen conexiones directas o con una escala en Madrid con **Tren de Alta Velocidad (AVE)**  que llega a Sevilla. La conexión desde Barcelona es directa y una de las más populares.
-- 🚌 **Autobús**: Varias compañías de autobuses, como **ALSA**, ofrecen rutas desde las principales ciudades del este hacia Sevilla. El viaje puede ser largo, especialmente desde **Barcelona**.
-- 🚗 **Coche**: Viajar en coche desde el este implica tomar autopistas como la **AP-7** (desde la costa catalana y valenciana) que conecta con la **A-4** o la **A-92** hacia Sevilla, dependiendo de la ruta elegida.
+Hasta la fecha, tenemos firmados convenios con los siguientes hoteles:
 
-## **Si vienes del Oeste**
-- 🚆  **Tren de Media Distancia**: Desde ciudades cercanas como **Huelva**, existen trenes regionales que conectan con Sevilla.
-- 🚌 **Autobús**: Es la opción más común y directa desde ciudades del oeste como **Huelva**, **Badajoz** y otras localidades de **Extremadura**. Varias compañías operan estas rutas.
-- 🚗 **Coche**: Viajar en coche es muy sencillo y rápido desde ciudades cercanas como **Huelva (A-49)**. Desde otras zonas más al norte del oeste, como **Badajoz**, se puede tomar la **A-66** y luego conectar con la **A-5** o la **A-4**.
+- [Hotel Melia Sevilla](https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla): Situado en el barrio de Nervión, a unos 10 minutos de la Estaciones de trenes de Santa Justa y parada de metro a un par de minutos.
+Realizan un descuento del 10% sobre el precio de la reserva.
+Descuendo disponible próximamente.
+<!--
+
+ La reserva debe de hacerse desde esta página: [Reserva en el Melia Sevilla con un 10% de descuento](LINK)
+--->
+
+
+- [Basic Hotel Puerta de Sevilla](https://www.basichotelpuertadesevilla.com/): Zona centrica, a menos de 10 minutos de la parada de metro del Prado de San Sebastian.
+Codigo de descuento: PyConES2025
+
+
+## Apartamentos turísticos
+Si optas por esta opción, desde la organización te animaos a que verifiques que el alojamiento es un alojamiento turístico legal. ¿Cómo hacerlo?
+
+* Consulta este [mapa](https://felt.com/map/Alojamientos-turisticos-Sevilla-s9AeOLVRcQJ9BcYuHNZ6qvDC?loc=37.38896,-5.99139,15.02z) creado por [Juanlu](https://es.linkedin.com/in/juanluiscanor), donde aparecen los alojamientos con resgistro de una declaración responsable (datos obtenidos del [Registro de Turismo de Andalucía](https://www.juntadeandalucia.es/organismos/turismoyandaluciaexterior/areas/turismo/registro-turismo/buscador-establecimientos-servicios-turisticos.html)
+
+* Consultando el número de registro del alojamiento que tiene que estar publico en la web de reservas y consultarlo en la [ventanilla única digital](https://www.mivau.gob.es/vivienda/ventanilla-unica/preguntas-frecuentes-sobre-ventanilla-unica-digital)
+
+
