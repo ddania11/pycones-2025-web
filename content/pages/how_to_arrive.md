@@ -7,7 +7,7 @@ Summary: Cómo llegar a Sevilla
 
 
 # Cómo llegar a Sevilla
- Sevilla, la capital andaluza, ofrece diversas opciones de transporte para aquellos que deseen visitarla. Su infraestructura facilita el acceso tanto por carretera, con una red de autovías bien desarrollada para coches y autobuses, como por ferrocarril, gracias a los servicios de trenes de alta velocidad (AVE). Además, el aeropuerto de Sevilla proporciona conexiones aéreas con numerosas ciudades europeas, lo que la convierte en un destino accesible desde múltiples puntos de origen, por lo que según que parte de España te encuentres, estas son las mejores opciones:
+ Sevilla, la capital andaluza, ofrece diversas opciones de transporte para aquellos que deseen visitarla. Su infraestructura facilita el acceso tanto por carretera, con una red de autovías bien desarrollada para coches y autobuses, como por ferrocarril, gracias a los servicios de trenes de alta velocidad (AVE). **([Info sobre descuentros más abajo](#descuentotren))** Además, el aeropuerto de Sevilla proporciona conexiones aéreas con numerosas ciudades europeas, lo que la convierte en un destino accesible desde múltiples puntos de origen, por lo que según que parte de España te encuentres, estas son las mejores opciones:
 
 ## **Si vienes del Norte**
 - ✈️ **Avión**: Ciudades como **Bilbao**, **Santander**, **Oviedo**, **A Coruña** y **Santiago de Compostela** ofrecen vuelos directos o con una escala al **Aeropuerto de Sevilla (SVQ)**. Compañías como **Vueling**, **Iberia** y **Ryanair** suelen operar estas rutas.
@@ -31,3 +31,7 @@ Summary: Cómo llegar a Sevilla
 - 🚆  **Tren de Media Distancia**: Desde ciudades cercanas como **Huelva**, existen trenes regionales que conectan con Sevilla.
 - 🚌 **Autobús**: Es la opción más común y directa desde ciudades del oeste como **Huelva**, **Badajoz** y otras localidades de **Extremadura**. Varias compañías operan estas rutas.
 - 🚗 **Coche**: Viajar en coche es muy sencillo y rápido desde ciudades cercanas como **Huelva (A-49)**. Desde otras zonas más al norte del oeste, como **Badajoz**, se puede tomar la **A-66** y luego conectar con la **A-5** o la **A-4**.
+
+<a name="descuentotren"></a>
+## **Si vienes en tren  🚆**
+Si vienes en tren, puedes obtener un **5% de descuento** siguiendo los siguientes [pasos al comprar los billetes de tren](https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/congresos-y-eventos/tutorial.html) y haciendo uso de este documento (**Importante**: descargar este [documento]("../theme/files/renfe-descuento-pycones.pdf"), te lo pediran durante el viaje). Valido para los viajes con salida y destino Sevilla para los días de la conferencia. [Condiciones de uso](https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/congresos-y-eventos) y más información en la web de [Renfe](https://www.renfe.com/es/es).
