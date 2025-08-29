@@ -1,0 +1,68 @@
+Title: Dónde alojarse en Sevilla
+Slug: where-staying
+Authors: Python España
+Date: 2025-08-26 18:30
+Modified: 2025-08-26 21:20
+Summary: Dónde alojarse en Sevilla
+
+
+# Recomendaciones para alojarse en Sevilla
+
+La forma más cómoda para llegar a la Universidad es en Metro, con la Linea 1 (sencillo, solo hay una linea).
+
+Teniendo en cuentra las zonas donde se suele salir por la noche y la linea de metro, los barrios más recomendables para alojarse son: entre zona de los Remedios, centro, San Bernardo, Nervión y Gran Plaza. Es decir, desde la parada Blas Infante hasta Gran Plaza.
+
+Zonas como Alameda, centro, Macarena son buenos sitios para alojarse dada su cercania a la zona centro, pero más alejada del metro.
+
+
+## Como llegar a la Universidad Pablo Olavides
+
+[Información útil](https://www.upo.es/estudiantes/en/why-study-at-upo/seville/Transporte-00001/) publicada en la web de la Universidad
+
+### Metro 🚇
+
+El [metro de Sevilla](https://www.metro-sevilla.es/) cuenta con una sola linea, la linea 1 que une los pueblos de Mairena del Aljarafe, San Juan de Aznalfarache, Dos Hermanas con Sevilla.
+Para llegar a la Universidad de la Olavides hay que bajarse en la parada "Pablo de Olavides"
+
+Aquí está el mapa con las paradas, los [horarios y precios](https://www.metro-sevilla.es/horarios-y-tarifas) y la consulta de los [próximos trenes](https://www.metro-sevilla.es/proximos)
+
+### Autobus 🚌
+
+La empresa de autobuses Tussam de Sevilla tiene disponibles la [línea 38 o la línea 38A](https://reddelineas.tussam.es/?linea=38&lang=es) de autobuses para llegar a la Universidad
+
+<!--
+### Taxi 🚕
+
+TODO
+### Coche 🚗
+
+Si llegas a Sevilla en coche, puede ser una buena idea, aparcar en el parking de la Universidad Pablo Olavides y moverse en transporte público. Aparcar por el centro de Sevilla, e incluso por zonas no tan céntricas, puede no ser una buena idea.
+--->
+
+# Dónde alojarse
+
+## Hoteles 🏨
+
+Hasta la fecha, tenemos firmados convenios con los siguientes hoteles:
+
+- [Hotel Melia Sevilla](https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla): Situado en el barrio de Nervión, a unos 10 minutos de la Estaciones de trenes de Santa Justa y parada de metro a un par de minutos.
+Realizan un descuento del 10% sobre el precio de la reserva.
+Descuendo disponible próximamente.
+<!--
+
+ La reserva debe de hacerse desde esta página: [Reserva en el Melia Sevilla con un 10% de descuento](LINK)
+--->
+
+
+- [Basic Hotel Puerta de Sevilla](https://www.basichotelpuertadesevilla.com/): Zona centrica, a menos de 10 minutos de la parada de metro del Prado de San Sebastian.
+Codigo de descuento: PyConES2025
+
+
+## Apartamentos turísticos
+Si optas por esta opción, desde la organización te animaos a que verifiques que el alojamiento es un alojamiento turístico legal. ¿Cómo hacerlo?
+
+* Consulta este [mapa](https://felt.com/map/Alojamientos-turisticos-Sevilla-s9AeOLVRcQJ9BcYuHNZ6qvDC?loc=37.38896,-5.99139,15.02z) creado por [Juanlu](https://es.linkedin.com/in/juanluiscanor), donde aparecen los alojamientos con resgistro de una declaración responsable (datos obtenidos del [Registro de Turismo de Andalucía](https://www.juntadeandalucia.es/organismos/turismoyandaluciaexterior/areas/turismo/registro-turismo/buscador-establecimientos-servicios-turisticos.html)
+
+* Consultando el número de registro del alojamiento que tiene que estar publico en la web de reservas y consultarlo en la [ventanilla única digital](https://www.mivau.gob.es/vivienda/ventanilla-unica/preguntas-frecuentes-sobre-ventanilla-unica-digital)
+
+

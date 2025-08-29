@@ -45,6 +45,7 @@ MENUITEMS_NAVBAR = OrderedDict(
                 "Sevilla, el marco": "/pages/sevilla.html",
                 "Universidad Pablo de Olavide, la sede": "/pages/upo.html",
                 "Cómo llegar": "/pages/how-to-arrive.html",
+                "Dónde alojarse": "/pages/where-staying.html",
             }
         ),
         "Organización": OrderedDict({"Equipo": "/organizers.html"}),
