@@ -13,7 +13,18 @@
                 <div class="media">
                     <div>
                         <a href="{{ SITEURL }}{{ keynoter.url }}"><p class="title is-4">{{ keynoter.name }}</p></a>
-                        <a href="https://twitter.com/{{ keynoter.twitter }}" target="_blank"><p class="subtitle is-6">{{ keynoter.twitter }}</p></a>
+                        <p class="subtitle is-6">
+                            <a href="https://github.com/{{ keynoter.github }}" target="_blank">
+                                <span class="icon">
+                                    <i class="fa-brands fa-linkedin"></i>
+                                </span>
+                            </a>
+                            <a href="https://de.linkedin.com/in/{{ keynoter.linkenin }}" target="_blank">
+                                <span class="icon">
+                                    <i class="fab fa-github fa-lg"></i>
+                                </span>
+                            </a>
+                        </p>
                     </div>
                 </div>
                 <div style="color: #4a4a4ac4" class="content">
