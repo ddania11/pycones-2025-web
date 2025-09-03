@@ -47,7 +47,7 @@ Para arrancar este proyecto en local, independientemente del sistema operativo q
 Para ello necesitas [Docker](https://www.docker.com/get-started).
 
 ```sh
-docker-compose up --build
+docker compose up --build
 ```
 
 Accede con tu navegador a la url [localhost:8080](http://localhost:8080)
