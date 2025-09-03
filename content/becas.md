@@ -24,3 +24,7 @@ Documentación a aportar:
 - Contratos en prácticas, jornada reducida o baja laboral: documento que certifique la situación. Recuerde censurar la información comprometida del documento.
 
 Para solicitar la beca debe rellenar este [formulario](https://forms.gle/7QzWRWkBMde1S5CX6){:target="_blank"} y tras estudiar la solicitud nos pondremos en contacto vía email con la respuesta.
+
+Queremos dar las gracias a las empresas patrocinadoras que han colaborado con nosotros para hacer posible estas becas:
+
+- [Codurance](https://www.codurance.com/){:target="_blank"} ![codurance](./images/codurance.png)
