@@ -102,13 +102,6 @@
         "size": "180px",
         "size_schedule": "200px",
         "order": 4,
-        "members": [
-            {
-                "name": "Monster Energy",
-                "photo": "/theme/images/sponsors/colaborador/monster.png",
-                "url": "https://www.monsterenergy.com/es-es/"
-            }
-
-        ]
+        "members": []
     }
 ]
