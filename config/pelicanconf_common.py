@@ -88,6 +88,9 @@ if ENABLED_PAST_EDITIONS:
 if ENABLED_JOBS:
     MENUITEMS_NAVBAR["Ofertas de trabajo"] = "/jobs.html"
 
+if ENABLED_DJANGO_GIRLS:
+    MENUITEMS_NAVBAR["Django Girls"] = "/pages/django-girls.html"
+
 if ENABLED_BLOG:
     MENUITEMS_NAVBAR["Blog"] = "/blog.html"
 

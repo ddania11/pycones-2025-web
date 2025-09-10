@@ -57,3 +57,6 @@ ENABLED_SCHEDULE_INFO = False
 
 # Habilita sección con la información de Twitter
 ENABLED_TWITTER = False
+
+# Habilita la sección de Django Girls
+ENABLED_DJANGO_GIRLS = True
