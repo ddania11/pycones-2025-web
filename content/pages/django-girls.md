@@ -20,12 +20,14 @@ El taller se realizará en el primer día de la conferencia nacional de Python m
 
 
 Los únicos requisitos son:
+
 - Ser mujer o persona no binaria
 - Tener ganas de aprender a programar y hacer páginas web
 - Traer un portátil
 - No necesitas tener conocimientos previos, pero sí mucha motivación para adquirirlos el día del taller.
 
 Como asistenta, podrás: 
+
 - Participar en un taller intensivo de Django en el que crearás tu propia página web
 - Disfrutar de un ambiente relajado y seguro, en el que aprenderemos con curiosidad y mucho buen rollo
 
