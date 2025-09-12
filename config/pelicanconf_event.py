@@ -13,6 +13,7 @@ TEAM = load_json_from_data("team.json")
 VOLUNTEERS = load_json_from_data("volunteers.json")
 PAST_EDITIONS = load_json_from_data("past_editions.json")
 SPONSORS = load_json_from_data("sponsors.json")
+ADDONS = load_json_from_data("add-ons.json")
 KEYNOTERS = load_json_from_data("keynoters.json")
 ORGANIZERS = load_json_from_data("organizers.json")
 

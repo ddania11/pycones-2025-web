@@ -1,0 +1,30 @@
+[
+    {
+        "level_name": "add-ons",
+        "title": "Add-ons",
+        "size": "200px",
+        "size_schedule": "200px",
+        "order": 4,
+        "members": [
+            {
+                "name": "Kraken Technologies",
+                "photo": "/theme/images/sponsors/plata_fina/kraken.png",
+                "url": "https://kraken.tech/",
+                "addons": "Taller de Django-girl"
+            },
+            {
+                "name": "Bloomberg",
+                "photo": "/theme/images/sponsors/incienso/bloomberg.png",
+                "url": "https://www.bloomberg.com/",
+                "addons": "Sala Paraninfo de la Universidad Pablo de Olavide"
+
+            },
+                        {
+                "name": "Codurance",
+                "photo": "/theme/images/sponsors/incienso/codurance.png",
+                "url": "https://www.codurance.com/es/",
+                "addons": "Paticipación en el reparto de becas"
+            }
+        ]
+    }
+]
