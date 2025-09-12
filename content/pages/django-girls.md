@@ -37,3 +37,8 @@ Inscripciones para asistentas [aquí](https://forms.gle/brL93yPg4SquggLs8).
 
 Inscripciones para coaches: [aquí](https://forms.gle/K6ajjYseDiBY64GY6).
 
+## Add-Ons - Activad patrocinada
+
+Queremos dar las gracias a [Kraken Technologies](https://kraken.tech/){:target="_blank"} por su especial patrocinio de esta activiad.
+
+![Kraken](./../../theme/images/sponsors/plata_fina/kraken.png)
