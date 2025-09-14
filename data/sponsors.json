@@ -45,6 +45,11 @@
                 "name": "Kraken Technologies",
                 "photo": "/theme/images/sponsors/plata_fina/kraken.png",
                 "url": "https://kraken.tech/"
+            },
+            {
+                "name": "Moeve",
+                "photo": "/theme/images/sponsors/plata_fina/moeve.png",
+                "url": "https://www.moeve.es/"
             }
         ]
     },
