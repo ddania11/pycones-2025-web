@@ -58,7 +58,7 @@ MENUITEMS_NAVBAR = OrderedDict(
     }
 )
 
-if CALL_FOR_PAPERS_LINK:
+if CALL_FOR_PAPERS_LINK and ENABLED_CALL_FOR_PAPERS:
     MENUITEMS_NAVBAR["Llamada a ponentes"] = OrderedDict(
         {
             "url": CALL_FOR_PAPERS_LINK,

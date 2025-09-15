@@ -8,10 +8,27 @@
 {% endblock extra_css %}
 
 {% block extra_script %}
+<script type="text/javascript" src="https://pretalx.com/democon/schedule/widget/v2.en.js"></script>
 {% endblock extra_script %}
 
 
 {% block content %}
 
+
+<pretalx-schedule event-url="https://pretalx.com/pycones-2025/" locale="en" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
+  <noscript>
+     <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/pycones-2025/schedule/">click here</a>.
+        </div>
+    </div>
+  </noscript>
+
+
+  <div class="box has-text-centered">
+    <a download target="_blank" class="button is-medium button is-primary" href="https://pretalx.com/pycones-2025/schedule/export/schedule.ics">Descargar ICal</a>
+    <a download target="_blank" class="button is-medium button is-link" href="https://pretalx.com/pycones-2025/schedule/export/schedule.xcal">Descargar XCal</a>
+</div>
 
 {% endblock content %}
