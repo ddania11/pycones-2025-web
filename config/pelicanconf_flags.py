@@ -11,13 +11,13 @@ LANDING_MODE = False
 ENABLED_TICKETS = True
 
 # Habilita bloque que hace la llamada a los ponentes.
-ENABLED_CALL_FOR_PAPERS = True
+ENABLED_CALL_FOR_PAPERS = False
 
 # Habilita bloque que muestra los oradores plenarios del evento.
 ENABLED_KEYNOTERS = True
 
 # Habilita pantalla de ponentes
-ENABLED_SPEAKERS = False
+ENABLED_SPEAKERS = True
 
 # Habilita bloque con todos los patrocinadores.
 ENABLED_SPONSORSHIPS = True
@@ -29,7 +29,7 @@ ENABLED_FINANCIAL_AID = False
 ENABLED_CALL_FOR_SPONSORS = True
 
 # Habilita la vista del calendario del evento.
-ENABLED_TIMETABLE = False
+ENABLED_TIMETABLE = True
 
 # Habilita la funcionalidad de blog de contenidos de la web.
 ENABLED_BLOG = True
@@ -53,7 +53,7 @@ ENABLED_TIMELINE = False
 ENABLED_JOBS = False
 
 # Habilita la sección del programa en la página principal
-ENABLED_SCHEDULE_INFO = False
+ENABLED_SCHEDULE_INFO = True
 
 # Habilita sección con la información de Twitter
 ENABLED_TWITTER = False
