@@ -57,6 +57,7 @@ Descuendo disponible próximamente.
 - [Basic Hotel Puerta de Sevilla](https://www.basichotelpuertadesevilla.com/): Zona centrica, a menos de 10 minutos de la parada de metro del Prado de San Sebastian.
 Codigo de descuento: PyConES2025
 
+- [Hotel Hesperia](https://www.hesperia.com): Zona de Nervión, a 15 minutos de la estación y cerca de la parada de metro de Nervión. Haciendo uso del código: PYCONES2025 se aplicará un descuento del 20% sobre la tarifa flexible para las reservas entre los días 15 y 20 de octubre de 2025. Estas reservas se podrán realizar hasta 15 de octubre de 2025.
 
 ## Apartamentos turísticos
 Si optas por esta opción, desde la organización te animaos a que verifiques que el alojamiento es un alojamiento turístico legal. ¿Cómo hacerlo?
