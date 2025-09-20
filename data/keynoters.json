@@ -6,5 +6,13 @@
         "linkenin": "tiangolo",
         "github": "tiangolo",
         "description": "Imagina que pudieras aprender los ingredientes clave en FastAPI, Typer, SQLModel, etc., para aplicarlos a tu producto y tu código."
+    },
+        {
+        "name": "Henar Vega",
+        "photo_big": "/theme/images/keynotes/hena-vegar.png",
+        "url": "/pages/henar-vega.html",
+        "linkenin": "henar-vega ",
+        "personalweb": "https://henarvega.com/",
+        "description": "La inteligencia artificial promete revolucionarlo todo: más eficiencia, más velocidad, más automatización. Pero el verdadero desafío no es solo técnico, es profundamente humano. La IA nos confronta con nuestras vulnerabilidades, con nuestros miedos y con la pregunta de siempre: ¿qué nos hace realmente humanos?"
     }
 ]
