@@ -31,8 +31,6 @@ Como asistenta, podrás:
 - Participar en un taller intensivo de Django en el que crearás tu propia página web
 - Disfrutar de un ambiente relajado y seguro, en el que aprenderemos con curiosidad y mucho buen rollo
 
-Es completamente gratuito, pero solo tenemos 30 plazas, así que ¡no esperes para apuntarte!😃
-
 ## **Inscripciones abiertas hasta el 30 de Septiembre**
 
 Inscripciones para asistentas [aquí](https://forms.gle/brL93yPg4SquggLs8).
