@@ -32,7 +32,10 @@
         "avatar": "/theme/images/organizers/jimena.jpeg",
         "tags": [
             {"name": "PyLadies", "color": "is-danger"},
-            {"name": "publicity squad", "color": "is-info"}
+            {"name": "publicity squad", "color": "is-info"},
+            {"name": "infraestructure squad", "color": "is-info"},
+            {"name": "tickets squad", "color": "is-info"},
+            {"name": "talks squad", "color": "is-info"}
         ],
         "position": "Ingeniera de Software",
         "twitter": "https://twitter.com/Jimena_y_yo",
@@ -100,7 +103,9 @@
         "linkedin": "https://www.linkedin.com/in/mesa/",
         "tags": [
             {"name": "Python Sevilla", "color": "is-danger"},
-            {"name": "institutional relationships", "color": "is-info"}
+            {"name": "institutional relationships", "color": "is-info"},
+            {"name": "tickets squad", "color": "is-info"},
+            {"name": "talks squad", "color": "is-info"}
         ]
     },
     {
@@ -112,7 +117,8 @@
         "linkedin": "https://www.linkedin.com/in/manueljesus00/",
         "tags": [
             {"name": "Asociación ESOLIUPO", "color": "is-danger"},
-            {"name": "infraestructure", "color": "is-info"}
+            {"name": "infraestructure", "color": "is-info"},
+            {"name": "sponsors squad", "color": "is-info"}
         ]
     },
     {
@@ -123,6 +129,41 @@
         "tags": [
             {"name": "Python Sevilla", "color": "is-danger"},
             {"name": "sponsors squad", "color": "is-info"}
+        ]
+    },
+        {
+        "name": "Alex Gómez",
+        "avatar": "/theme/images/organizers/pythonespana.png",
+        "position": "Hacedor de cosas",
+        "tags": [
+            {"name": "Python España", "color": "is-danger"},
+            {"name": "tickets squad", "color": "is-info"},
+            {"name": "talks squad", "color": "is-info"},
+            {"name": "Diversity squad", "color": "is-info"},
+            {"name": "Stickers squad", "color": "is-info"},
+            {"name": "Café squad", "color": "is-info"}
+        ]
+    },
+        {
+        "name": "Lucía Cabrera Garabote",
+        "avatar": "/theme/images/organizers/pythonespana.png",
+        "position": "Estudiante de Ingeniería Informática",
+        "tags": [
+            {"name": "Python España", "color": "is-danger"},
+            {"name": "Voluntariado squad", "color": "is-info"},
+            {"name": "RRSS squad", "color": "is-info"}
+        ]
+    },
+        {
+        "name": "Eloisa Pérez Bennetts ",
+        "avatar": "/theme/images/organizers/eloisa.jpeg",
+        "position": "Estudiante de Ingeniería Informática",
+        "github": "https://github.com/epbennetts",
+        "linkedin": "https://www.linkedin.com/in/epbennetts/",
+        "tags": [
+            {"name": "Python España", "color": "is-danger"},
+            {"name": "Voluntariado squad", "color": "is-info"},
+            {"name": "RRSS squad", "color": "is-info"}
         ]
     }
 ]
