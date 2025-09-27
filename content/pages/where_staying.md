@@ -47,12 +47,7 @@ Hasta la fecha, tenemos firmados convenios con los siguientes hoteles:
 
 - [Hotel Melia Sevilla](https://www.melia.com/es/hoteles/espana/sevilla/melia-sevilla): Situado en el barrio de Nervión, a unos 10 minutos de la Estaciones de trenes de Santa Justa y parada de metro a un par de minutos.
 Realizan un descuento del 10% sobre el precio de la reserva.
-Descuendo disponible próximamente.
-<!--
-
- La reserva debe de hacerse desde esta página: [Reserva en el Melia Sevilla con un 10% de descuento](LINK)
---->
-
+La reserva debe de hacerse desde esta página: [Reserva en el Melia Sevilla con un 10% de descuento](https://events.melia.com/es/events/melia-lebreros/PyConES-2025).
 
 - [Basic Hotel Puerta de Sevilla](https://www.basichotelpuertadesevilla.com/): Zona centrica, a menos de 10 minutos de la parada de metro del Prado de San Sebastian.
 Codigo de descuento: PyConES2025
