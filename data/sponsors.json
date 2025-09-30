@@ -107,6 +107,12 @@
         "size": "180px",
         "size_schedule": "200px",
         "order": 4,
-        "members": []
+        "members": [
+            {
+                "name": "Grupo Billingham",
+                "photo": "/theme/images/sponsors/colaborador/billingjam.png",
+                "url": "https://www.grupobillingham.com/"
+            }
+        ]
     }
 ]
