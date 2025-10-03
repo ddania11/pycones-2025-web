@@ -165,5 +165,16 @@
             {"name": "Voluntariado squad", "color": "is-info"},
             {"name": "RRSS squad", "color": "is-info"}
         ]
+    },
+    {
+        "name": "Rafa Haro",
+        "avatar": "/theme/images/organizers/rharo.jpg",
+        "position": "Staff Engineer",
+        "github": "https://github.com/rafaharo",
+        "linkedin": "https://www.linkedin.com/in/rafaelharo/",
+        "tags": [
+            {"name": "Python Sevilla", "color": "is-danger"},
+            {"name": "Sponsors squad", "color": "is-info"}
+        ]
     }
 ]
