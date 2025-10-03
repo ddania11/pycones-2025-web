@@ -16,8 +16,23 @@
             {
                 "name": "Vicente Herrera",
                 "photo": "/theme/images/sponsors/fila0/vicente.png"
+            },
+            {
+                "name": "German Bourdin",
+                "photo": "/theme/images/sponsors/fila0/fila0.png"
+            },
+            {
+                "name": "Eduardo Torres Cervantes",
+                "photo": "/theme/images/sponsors/fila0/eduardo-torres.jpeg"
+            },
+            {
+                "name": "Sergei Mikheev",
+                "photo": "/theme/images/sponsors/fila0/fila0.png"
+            },
+               {
+                "name": "Bankinter",
+                "photo": "/theme/images/sponsors/fila0/bankinter.png"
             }
         ]
     }
-
 ]
