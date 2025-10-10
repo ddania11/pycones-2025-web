@@ -1,21 +1,148 @@
 [
     {
-        "company_avatar": "https://dummyimage.com/25x25",
-        "company_name": "Mi Arma Tech",
-        "position": "Backend Engineer (Python)",
-        "description": "Estamos en búsqueda de un Backend Engineer con experiencia en Python y Django para formar parte de nuestro equipo en una startup en pleno crecimiento enfocada en soluciones SaaS para e-commerce.",
-        "location": "España / Remoto",
-        "skills": [
-            "python",
-            "django",
-            "rest api",
-            "postgresql",
-            "docker",
-            "kubernetes",
-            "inglés intermedio"
-        ],
-        "salary": "45.000 - 65.000 €",
-        "url": "https://host/jobs/backend-engineer-python",
-        "email": "miarma@email"
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "JOINUP GREEN INTELLIGENCE SL",
+      "position": "Desarrollador Backend",
+      "description": "Joinup es la plataforma de movilidad corporativa que desde 2012 ayuda a más de 800 empresas a moverse de forma eficiente y sostenible. Buscamos talento para desarrollar nuevas funcionalidades y mantener nuestro software, impulsando innovación y calidad.",
+      "location": "Remota",
+      "skills": [
+        "Python",
+        "Django",
+        "DRF",
+        "Celery",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Linux/UNIX",
+        "Git"
+      ],
+      "salary": "Según valía",
+      "url": "",
+      "email": "talento@joinup.es"
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Codurance",
+      "position": "Senior Fullstack Developer",
+      "description": "Join our international team as a senior consultant! Think quality, best practices, pragmatism and culture! Help international clients' dev teams improve their software, maybe as a tech lead in a software modernisation project or building complex systems or coaching and mentoring!",
+      "location": "Remote (anywhere in Spain)",
+      "skills": [
+        "C#",
+        "Java",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Python"
+      ],
+      "salary": "50-70K",
+      "url": "https://www.codurance.com/careers/current-roles?hsCtaTracking=fd7530a4-dec7-4756-a255-81b5624a506b%7Ca53de7f3-e646-4f7b-997a-28f786445c95",
+      "email": "emily.reboul@codurance.com"
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "E-Frontiers",
+      "position": "Desarrollador Scala & Spark",
+      "description": "Desarrollador Scala & Spark (+3 años de experiencia). Cliente: una de las principales compañías de tecnología de España, actualmente en plena expansión internacional. Se ofrece: salario 45-55K / Contrato indefinido / Remoto y más :)",
+      "location": "Remote - Spain",
+      "skills": [
+        "Scala",
+        "Spark"
+      ],
+      "salary": "45000 EUR - 55000 EUR",
+      "url": "https://www.linkedin.com/jobs/view/4309254141",
+      "email": "ana.martin.romero@e-frontiers.ie"
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "E-Frontiers",
+      "position": "DevOps Engineer",
+      "description": "Estamos en búsqueda de un profesional DevOps con 4 años de experiencia para unirse a una empresa de producto suiza basada en Madrid. Entornos cloud con AWS y DevOps con Kubernetes, Terraform y GitLab.",
+      "location": "Hybrid",
+      "skills": [
+        "AWS",
+        "Python",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Datadog"
+      ],
+      "salary": "50000€ - 60000€",
+      "url": "https://e-frontiers.ie/jobs/devops-engineer-9591/",
+      "email": ""
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Kraken Technologies",
+      "position": "Software Engineer",
+      "description": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We’re a technology company focused on creating a smart, sustainable energy system.",
+      "location": "Hybrid/Remote",
+      "skills": [
+        "Python",
+        "Django",
+        "Domain modelling",
+        "HTTP",
+        "REST APIs"
+      ],
+      "salary": "Flexible",
+      "url": "https://hire.lever.co/jobs/internal/1ea4acff-7e0d-4694-a98f-ced93d8f9ead",
+      "email": ""
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "NielsenIQ",
+      "position": "Research Intern (AI/ML)",
+      "description": "Step into the future of AI with NIQ´s Internship! Get hands-on experience solving real-world challenges using cutting-edge AI. Collaborate with a multidisciplinary team, explore NLP, LLMs, and Computer Vision, contribute to scalable solutions, and stay current with AI research.",
+      "location": "Hybrid (1 vez por semana) - Madrid o Valladolid",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Huggingface",
+        "Transformers",
+        "NLP",
+        "Git",
+        "pandas",
+        "sklearn"
+      ],
+      "salary": "10.000 EUR (6 meses) / 20.000 EUR Brutos - Anuales",
+      "url": "https://jobs.smartrecruiters.com/ni/NielsenIQ/11465751-6828-41b4-a48b-f9347130b409-niq-early-career-program-research-intern-ai-ml-",
+      "email": "asma.fedaili@nielseniq.com"
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "E-Frontiers",
+      "position": "FullStack Engineer - aprende Elixir",
+      "description": "Buscamos un/a Senior FullStack Engineer con experiencia en backend (5+ años: Python, Ruby, Java u otro similar), habilidades frontend (HTML/CSS/SCSS, Webpack/Rollup) e interés real en aprender Elixir desde cero.",
+      "location": "Remoto, reunión en Madrid una vez al mes",
+      "skills": [
+        "Python",
+        "Ruby",
+        "Java",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Webpack",
+        "Rollup",
+        "Elixir"
+      ],
+      "salary": "35000 - 48000 €",
+      "url": "https://e-frontiers.ie/jobs/senior-fullstack-engineer-elixir-9456/",
+      "email": "teresa.quintana@e-frontiers.ie"
+    },
+    {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "E-Frontiers",
+      "position": "Buscamos talento Python :)",
+      "description": "Buscamos desarrolladores Python con experiencia en Django, Flask o FastAPI. Actualmente no hay vacantes abiertas, pero queremos crear una base de talento para futuras oportunidades en proyectos innovadores. Inglés fluido y trabajo en equipo.",
+      "location": "Remote, hybrid, in office",
+      "skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Inglés"
+      ],
+      "salary": "25000 - 75000 €",
+      "url": "https://e-frontiers.ie/jobs/buscamos-talento-python-9661/",
+      "email": "teresa.quintana@e-frontiers.ie"
     }
-]
+  ]
