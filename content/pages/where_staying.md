@@ -33,11 +33,19 @@ La empresa de autobuses Tussam de Sevilla tiene disponibles la [línea 38 o la l
 <!--
 ### Taxi 🚕
 
-TODO
+-->
+
 ### Coche 🚗
 
-Si llegas a Sevilla en coche, puede ser una buena idea, aparcar en el parking de la Universidad Pablo Olavide y moverse en transporte público. Aparcar por el centro de Sevilla, e incluso por zonas no tan céntricas, puede no ser una buena idea.
---->
+Si llegas a Sevilla en coche, puede ser una buena idea dejar el coche en el parking de la Universidad Pablo Olavide y moverse en transporte público por la ciudad. Aparcar por el centro de Sevilla, e incluso por zonas no tan céntricas, puede no ser una buena idea.
+
+### Parking 🅿️
+Estas son las condiciones para aparcar en la Universidad:
+
+- Los vehiculos podrán estar aparcador durante todo el evento. Sin limitaciones de movilidad de los coches durante el día.
+- Por las noches, los vehículos sólo podrán dejarse en el parking P1 de la universidad.
+- El recindo del parking permanece cerrado por las noches y no se puede acceder a los vehículos de 12 de la noche a 6 am de la mañana.
+- La Universidad no se hace responsable de lo que le pueda pasar a su vehículo mientras esté aparcado en sus instalaciones.
 
 # Dónde alojarse
 
