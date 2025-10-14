@@ -33,7 +33,7 @@
         "tags": [
             {"name": "PyLadies", "color": "is-danger"},
             {"name": "publicity squad", "color": "is-info"},
-            {"name": "infraestructure squad", "color": "is-info"},
+            {"name": "infrastructure squad", "color": "is-info"},
             {"name": "tickets squad", "color": "is-info"},
             {"name": "talks squad", "color": "is-info"}
         ],
@@ -47,7 +47,7 @@
         "avatar": "/theme/images/organizers/sara.jpeg",
         "tags": [
             {"name": "Python Granada", "color": "is-danger"},
-            {"name": "attendes squad", "color": "is-info"}
+            {"name": "attendees squad", "color": "is-info"}
         ],
         "twitter": "https://twitter.com/SrtSanz_"
     },
@@ -117,7 +117,7 @@
         "linkedin": "https://www.linkedin.com/in/manueljesus00/",
         "tags": [
             {"name": "Asociación ESOLIUPO", "color": "is-danger"},
-            {"name": "infraestructure", "color": "is-info"},
+            {"name": "infrastructure", "color": "is-info"},
             {"name": "sponsors squad", "color": "is-info"}
         ]
     },
@@ -129,6 +129,16 @@
         "tags": [
             {"name": "Python Sevilla", "color": "is-danger"},
             {"name": "sponsors squad", "color": "is-info"}
+        ]
+    },
+    {
+        "name": "Pablo Álamo González",
+        "avatar": "/theme/images/organizers/alamo.jpg",
+        "position": "Computer Scientist | Data Engineer @ Keedio",
+        "linkedin": "https://www.linkedin.com/in/pablo-%C3%A1lamo-gonz%C3%A1lez-907720115/",
+        "tags": [
+            {"name": "Python Sevilla", "color": "is-danger"},
+            {"name": "vendors squad", "color": "is-info"}
         ]
     },
         {
