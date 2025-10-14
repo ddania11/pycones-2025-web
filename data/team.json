@@ -176,5 +176,17 @@
             {"name": "Python Sevilla", "color": "is-danger"},
             {"name": "Sponsors squad", "color": "is-info"}
         ]
+    },
+    {
+      "name": "Daniel Dania González",
+      "avatar": "/theme/static/images/organizers/daniel.jpeg",
+      "position": "Ingeniero de Software",
+      "github": "https://github.com/ddania11",
+      "linkedin": "https://www.linkedin.com/in/daniel-dania/",
+      "tags": [
+        { "name": "Python Sevilla", "color": "is-danger" },
+        { "name": "RRSS squad", "color": "is-info" },
+        { "name": "web squad", "color": "is-info" }
+      ]
     }
 ]
