@@ -141,6 +141,15 @@
             {"name": "vendors squad", "color": "is-info"}
         ]
     },
+    {
+        "name": "Reyes Cabello",
+        "avatar": "/theme/images/organizers/reyes.jpg",
+        "position": "Software Developer",
+        "tags": [
+            {"name": "Python Sevilla", "color": "is-danger"},
+            {"name": "vendors squad", "color": "is-info"}
+        ]
+    },
         {
         "name": "Alex Gómez",
         "avatar": "/theme/images/organizers/pythonespana.png",
