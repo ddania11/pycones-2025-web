@@ -94,7 +94,7 @@ if ENABLED_DJANGO_GIRLS:
 if ENABLED_BLOG:
     MENUITEMS_NAVBAR["Blog"] = "/blog.html"
 
-MENUITEMS_NAVBAR.move_to_end("Tickets", last=False)
+MENUITEMS_NAVBAR.move_to_end("Horario", last=False)
 
 NAVBAR_STYLE = "is-primary"
 THEME_LOGO = "/theme/images/logos/ICONO_ORIGINAL.png"  # navbar
