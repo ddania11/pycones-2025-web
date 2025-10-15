@@ -188,5 +188,14 @@
         { "name": "RRSS squad", "color": "is-info" },
         { "name": "web squad", "color": "is-info" }
       ]
+    },
+    {
+      "name": "Pablo Pais",
+      "avatar": "/theme/images/organizers/pablo-pais.jpg",
+      "position": "Ingeniero Informático",
+      "linkedin": "https://www.linkedin.com/in/pablo-pais-ficret-7a72b5296/",
+      "tags": [
+        { "name": "Python España", "color": "is-danger" }
+      ]
     }
 ]
